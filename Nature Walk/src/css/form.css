@@ -1,0 +1,40 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+#obs-form {
+  font-weight: 600;
+}
+input {
+  height: 100%;
+}
+.required {
+  font-weight: bold;
+  color: red;
+}
+.error {
+  color: red;
+}
+.check {
+  float: right;
+  text-align: right;
+}
+
+#desc-input {
+  width: 64%;
+}
+
+#notes-input {
+  width: 67%;
+}
+
+#name-input,
+#email-input {
+  width: 65%;
+}
+#license-drop {
+  width: 67%;
+}
+
+.obs-btn {
+  font-weight: bold;
+}
